@@ -1,15 +1,15 @@
 # WhiteGod Graphics Website
 
-**Student:** Vhutshila
+**Student:** Vutshila
 **Module:** WEB DEVELOPMENT (INTRODUCTION) – WEDE5020  
 **Part:** 1 – Building the Foundation  
 
 ## Project Overview
-Professional website for WhiteGod Graphics, a premium graphic design studio based in Pretoria.
+Professional website for WhiteGod Graphics, a premium graphic design studio based in Polokwane.
 
 ## Website Goals & Objectives
 - Attract new client enquiries  
-- Build brand visibility in Gauteng  
+- Build brand visibility in Polokwane  
 - Make it easy for clients to contact us and start projects  
 
 ## Sitemap
@@ -25,7 +25,7 @@ Professional website for WhiteGod Graphics, a premium graphic design studio base
 - 12 April 2026 – Fixed file paths so Services and Contact pages load correctly with Live Server  
 
 ## References (Harvard)
-WhiteGod Graphics. (2026) Studio Portfolio Archive. Pretoria: WhiteGod Graphics.  
+WhiteGod Graphics. (2026) Studio Portfolio Archive. Polokwane: WhiteGod Graphics.  
 South African Design Council. (2025) Graphic Design Industry Report. Johannesburg: SADC.
 
 ## AI Disclosure Annex
