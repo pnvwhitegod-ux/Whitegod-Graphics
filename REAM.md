@@ -7,20 +7,21 @@
 ## Project Overview
 WhiteGod Graphics is a premium graphic design studio based in Polokwane, Limpopo. This website showcases our services, portfolio, and provides an easy way for clients to start projects or get in touch.
 
-### Main Views
-![Screenshot 11](Screenshots/Screenshot(11).png)
-![Screenshot 13](Screenshots/Screenshot(13).png)
-![Screenshot 14](Screenshots/Screenshot(14).png)
-![Screenshot 15](Screenshots/Screenshot(15).png)
+### Main Views of the screenshot of my page
+![Screenshot 11](Screenshot%20(11).png)
+![Screenshot 12](Screenshot%20(12).png)
+![Screenshot 13](Screenshot%20(13).png)
+![Screenshot 14](Screenshot%20(14).png)
+![Screenshot 15](Screenshot%20(15).png)
 
-### More Pages
-![Screenshot 16](Screenshots/Screenshot(16).png)
-![Screenshot 17](Screenshots/Screenshot(17).png)
-![Screenshot 18](Screenshots/Screenshot(18).png)
+### More Pages To Continue 
+![Screenshot 16](Screenshot%20(16).png)
+![Screenshot 17](Screenshot%20(17).png)
+![Screenshot 18](Screenshot%20(18).png)
 
-### Additional Views
-![Screenshot 19](Screenshots/Screenshot(19).png)
-![Screenshot 20](Screenshots/Screenshot(20).png)
+### Additional Views last but not least
+![Screenshot 19](Screenshot%20(19).png)
+![Screenshot 20](Screenshot%20(20).png)
 
 ## Website Goals & Objectives
 - Showcase high-quality design work to attract new clients  
