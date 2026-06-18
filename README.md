@@ -7,6 +7,31 @@
 ## Project Overview
 WhiteGod Graphics is a premium graphic design studio based in Polokwane, Limpopo. This website showcases our services, portfolio, and provides an easy way for clients to start projects or get in touch.
 
+### Main Views
+![Screenshot 2](images/Screenshots/Screenshot%20(2).png)
+![Screenshot 3](images/Screenshots/Screenshot%20(3).png)
+![Screenshot 4](images/Screenshots/Screenshot%20(4).png)
+![Screenshot 5](images/Screenshots/Screenshot%20(5).png)
+![Screenshot 6](images/Screenshots/Screenshot%20(6).png)
+![Screenshot 7](images/Screenshots/Screenshot%20(7).png)
+![Screenshot 8](images/Screenshots/Screenshot%20(8).png)
+![Screenshot 9](images/Screenshots/Screenshot%20(9).png)
+![Screenshot 10](images/Screenshots/Screenshot%20(10).png)
+![Screenshot 11](images/Screenshots/Screenshot%20(11).png)
+![Screenshot 12](images/Screenshots/Screenshot%20(12).png)
+
+### More Pages
+![Screenshot 13](images/Screenshots/Screenshot%20(13).png)
+![Screenshot 14](images/Screenshots/Screenshot%20(14).png)
+![Screenshot 15](images/Screenshots/Screenshot%20(15).png)
+![Screenshot 16](images/Screenshots/Screenshot%20(16).png)
+
+### Additional Views
+![Screenshot 17](images/Screenshots/Screenshot%20(17).png)
+![Screenshot 18](images/Screenshots/Screenshot%20(18).png)
+![Screenshot 19](images/Screenshots/Screenshot%20(19).png)
+![Screenshot 20](images/Screenshots/Screenshot%20(20).png)
+
 ## Website Goals & Objectives
 - Showcase high-quality design work to attract new clients  
 - Provide clear information about services and process  
@@ -55,3 +80,4 @@ South African Design Council. (2025) Graphic Design Industry Report. Johannesbur
 
 ## AI Disclosure Annex
 I used Grok (xAI) to assist with HTML structure, CSS styling, JavaScript validation, and proposal formatting. All code was implemented, tested with Live Server, and reviewed/edited by me. Screen grab of the conversation is attached in the submission.
+
