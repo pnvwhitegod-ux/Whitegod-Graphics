@@ -8,27 +8,17 @@
 WhiteGod Graphics is a premium graphic design studio based in Polokwane, Limpopo. This website showcases our services, portfolio, and provides an easy way for clients to start projects or get in touch.
 
 ### Main Views
-![Screenshot 2](Screenshots/Screenshot(2).png)
-![Screenshot 3](Screenshots/Screenshot(3).png)
-![Screenshot 4](Screenshots/Screenshot(4).png)
-![Screenshot 5](Screenshots/Screenshot(5).png)
-![Screenshot 6](Screenshots/Screenshot(6).png)
-![Screenshot 7](Screenshots/Screenshot(7).png)
-![Screenshot 8](Screenshots/Screenshot(8).png)
-![Screenshot 9](Screenshots/Screenshot(9).png)
-![Screenshot 10](Screenshots/Screenshot(10).png)
 ![Screenshot 11](Screenshots/Screenshot(11).png)
-![Screenshot 12](Screenshots/Screenshot(12).png)
-
-### More Pages
 ![Screenshot 13](Screenshots/Screenshot(13).png)
 ![Screenshot 14](Screenshots/Screenshot(14).png)
 ![Screenshot 15](Screenshots/Screenshot(15).png)
-![Screenshot 16](Screenshots/Screenshot(16).png)
 
-### Additional Views
+### More Pages
+![Screenshot 16](Screenshots/Screenshot(16).png)
 ![Screenshot 17](Screenshots/Screenshot(17).png)
 ![Screenshot 18](Screenshots/Screenshot(18).png)
+
+### Additional Views
 ![Screenshot 19](Screenshots/Screenshot(19).png)
 ![Screenshot 20](Screenshots/Screenshot(20).png)
 
